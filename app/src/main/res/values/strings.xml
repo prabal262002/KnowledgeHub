@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KnowledgeHub</string>
+    <string name="android_development">Android Development</string>
+    <string name="web_development">Web Development</string>
+    <string name="ios_development">IOS Development</string>
+    <string name="Block_Chain">Block Chain</string>
+    <string name="ml">Machine Learning</string>
+    <string name="cn">Computer Network</string>
+</resources>
